@@ -1,0 +1,5 @@
+{
+  "name": "VoxelNode",
+  "description": "Premium subdomain management and DNS hosting powered by Cloudflare and Google Auth.",
+  "requestFramePermissions": []
+}
